@@ -1,27 +1,27 @@
-#About Me
+# About Me
 
-##Focus
+## Focus
 - Web Application Security
 - Penetration Testing
 - Offensive Security
 
-##Technical Skills
+## Technical Skills
 - Burp Suite
 - Linux
 - Networking
 - Python
 
-##Projects
+## Projects
 - Web Pentest Lab
 - Internal Pentest Lab
 - Security Automation
 
-##CTF / Practice
+## CTF / Practice
 - PortSwigger
 - TryHackMe
 - Hack The Box
 
-##Links (coming soon)
+## Links (coming soon)
 - GitHub
 - TryHackMe
 - Hack The Box
