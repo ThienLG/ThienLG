@@ -1,16 +1,26 @@
-## Hi there 👋
+# Cybersecurity Portfolio
 
-<!--
-**ThienLG/ThienLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
 
-Here are some ideas to get you started:
+- Web Application Security
+- Penetration Testing
+- Offensive Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Practice
+
+- Burp Suite
+- Linux
+- Networking
+- Web Security
+- CTF
+
+## Labs
+
+- Web Application Pentesting
+- Network Pentesting
+- Active Directory
+- Security Automation
+
+## Write-ups
+
+Coming soon.
