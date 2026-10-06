@@ -1,26 +1,28 @@
-# Cybersecurity Portfolio
+#About Me
 
-## Focus
-
+##Focus
 - Web Application Security
 - Penetration Testing
 - Offensive Security
 
-## Current Practice
-
+##Technical Skills
 - Burp Suite
 - Linux
 - Networking
-- Web Security
-- CTF
+- Python
 
-## Labs
-
-- Web Application Pentesting
-- Network Pentesting
-- Active Directory
+##Projects
+- Web Pentest Lab
+- Internal Pentest Lab
 - Security Automation
 
-## Write-ups
+##CTF / Practice
+- PortSwigger
+- TryHackMe
+- Hack The Box
 
-Coming soon.
+##Links (coming soon)
+- GitHub
+- TryHackMe
+- Hack The Box
+- LinkedIn
